@@ -1,8 +1,7 @@
 -- ===========================
--- DevifyX MySQL Job Portal Assignment
+-- Job Portal Assignment
 -- Schema, Sample Data & Queries
--- Author: Harshit Bansal
--- ===========================
+==
 
 -- Drop all existing tables (if any)
 DROP TABLE IF EXISTS Audit_Log, Notifications, Saved_Jobs, Applications, Job_Postings, Resumes, Employers, Job_Seekers, Users;
