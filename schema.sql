@@ -1,7 +1,7 @@
 -- ===========================
 -- Job Portal Assignment
 -- Schema, Sample Data & Queries
-==
+
 
 -- Drop all existing tables (if any)
 DROP TABLE IF EXISTS Audit_Log, Notifications, Saved_Jobs, Applications, Job_Postings, Resumes, Employers, Job_Seekers, Users;
